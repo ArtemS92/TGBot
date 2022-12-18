@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 import emoji
 
-token = '5898911551:AAG3Oj42XwwwN9yU1nO9D8st9lQEbPnn3o4'
+token = ''
 bot = telebot.TeleBot(token)
 
 
